@@ -34,18 +34,6 @@ such as:
 
 <br>
 
-## Techincal skills 📜
- 
-  
- 📜&nbsp;&nbsp;**NETWORK  ADMINISTRATION:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Server Management<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Virtual Machine <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Active Directory management <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ IP Configuration (Enterprise level) <br>
-
-
-<br>
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
